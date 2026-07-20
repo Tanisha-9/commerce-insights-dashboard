@@ -5,6 +5,8 @@ An AI-powered full-stack analytics platform that helps businesses analyze sales,
 Designed as a generic e-commerce analytics solution, the application is not tied to any specific platform and can be used with data from Amazon, Shopify, WooCommerce, Flipkart, Etsy, and other marketplaces.
 
 ---
+## Live demo: https://commerce-insights-dashboard.vercel.app/
+
 
 ## ✨ Features
 
